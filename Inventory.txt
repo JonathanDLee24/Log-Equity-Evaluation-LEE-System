@@ -1,0 +1,546 @@
+
+This File Was Generated On: Thursday, May 11, 2023 at 10:02:21 AM Pacific Daylight Time
+
+Inventory During This Time Stamp Held Was ----->
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 6:59:01 AM Pacific Daylight Time
+Stock Number: 2
+Year: 2009
+Color: Silver
+Make: Chevy
+Model: Equniox
+Mileage: 190000
+Sale Price: $6007.709169
+Purchase Price: $3000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:00:05 AM Pacific Daylight Time
+Stock Number: 62078
+Year: 2554
+Color: Rainbow
+Make: LegoTimeCapsule2
+Model: 15000
+Mileage: 10000000
+Sale Price: $20025.697229999998
+Purchase Price: $7000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:00:50 AM Pacific Daylight Time
+Stock Number: 15
+Year: 2006
+Color: Yellow
+Make: Buell
+Model: X1-Lighting
+Mileage: 15000
+Sale Price: $10012.848614999999
+Purchase Price: $8000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:01:17 AM Pacific Daylight Time
+Stock Number: 120
+Year: 1994
+Color: White
+Make: Jeep
+Model: Wrangler
+Mileage: 15000
+Sale Price: $18023.127507
+Purchase Price: $10000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:02:01 AM Pacific Daylight Time
+Stock Number: 51
+Year: 2007
+Color: Sunset Red
+Make: Victory
+Model: Vegas
+Mileage: 22000
+Sale Price: $14016.986776138501
+Purchase Price: $9800.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:02:43 AM Pacific Daylight Time
+Stock Number: 52
+Year: 2007
+Color: Matte Black
+Make: Victory
+Model: High-Ball
+Mileage: 15000
+Sale Price: $13516.344345388501
+Purchase Price: $10000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:03:31 AM Pacific Daylight Time
+Stock Number: 53
+Year: 2022
+Color: Vivid Black
+Make: Harley
+Model: V-Rod Muscle
+Mileage: 6000
+Sale Price: $15019.2729225
+Purchase Price: $16499.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:04:07 AM Pacific Daylight Time
+Stock Number: 54
+Year: 2022
+Color: Red
+Make: Ducati
+Model: Panigale V4
+Mileage: 1200
+Sale Price: $22628.036585038495
+Purchase Price: $21000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:04:41 AM Pacific Daylight Time
+Stock Number: 55
+Year: 2022
+Color: Yellow
+Make: Arch
+Model: Method 43
+Mileage: 12000
+Sale Price: $28035.976122000004
+Purchase Price: $21000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:05:29 AM Pacific Daylight Time
+Stock Number: 56
+Year: 2004
+Color: Candy Red
+Make: Honda (DO NOT SELL)
+Model: Valkyrie Rune
+Mileage: 1000
+Sale Price: $0.0
+Purchase Price: $30000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:06:58 AM Pacific Daylight Time
+Stock Number: 60
+Year: 1970
+Color: White
+Make: Holden
+Model: Torana GTR-X
+Mileage: 2000
+Sale Price: $50064.243075000006
+Purchase Price: $39000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:08:56 AM Pacific Daylight Time
+Stock Number: 102
+Year: 1982
+Color: Red
+Make: Chevy
+Model: Camaro Z28
+Mileage: 1000
+Sale Price: $38048.824736999995
+Purchase Price: $26000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:09:32 AM Pacific Daylight Time
+Stock Number: 103
+Year: 1980
+Color: Yellow
+Make: Lancia
+Model: Montecarlo
+Mileage: 11000
+Sale Price: $56071.95224400001
+Purchase Price: $48000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:10:09 AM Pacific Daylight Time
+Stock Number: 95
+Year: 2010
+Color: Red
+Make: Disney
+Model: Pixar Lighting McQueen
+Mileage: 370000
+Sale Price: $60077.09169
+Purchase Price: $52000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:10:46 AM Pacific Daylight Time
+Stock Number: 104
+Year: 1989
+Color: Blue
+Make: Zombot
+Model: FKB22
+Mileage: 10000
+Sale Price: $40051.394459999996
+Purchase Price: $23000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:11:27 AM Pacific Daylight Time
+Stock Number: 106
+Year: 1980
+Color: Yellow
+Make: Cat
+Model: Hydrulic Excavator P314
+Mileage: 50000
+Sale Price: $36046.255014
+Purchase Price: $32000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:12:09 AM Pacific Daylight Time
+Stock Number: 107
+Year: 2008
+Color: Light Blue
+Make: Ford
+Model: Swamp Buggy
+Mileage: 16000
+Sale Price: $35044.970152500005
+Purchase Price: $38000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:12:51 AM Pacific Daylight Time
+Stock Number: 108
+Year: 1980
+Color: Black
+Make: Pontiac
+Model: Transam
+Mileage: 12000
+Sale Price: $38048.824736999995
+Purchase Price: $32000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:13:33 AM Pacific Daylight Time
+Stock Number: 109
+Year: 2012
+Color: Red & Black
+Make: Acura
+Model: NSX concept
+Mileage: 12000
+Sale Price: $49062.9582135
+Purchase Price: $48000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:14:14 AM Pacific Daylight Time
+Stock Number: 111
+Year: 2017
+Color: White
+Make: Hotwheel
+Model: Buns Of Steel FJV59
+Mileage: 46000
+Sale Price: $50064.243075000006
+Purchase Price: $32000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:15:20 AM Pacific Daylight Time
+Stock Number: 112
+Year: 2007
+Color: Yellow
+Make: Chevy
+Model: Camaro Convertible
+Mileage: 12000
+Sale Price: $32041.115568
+Purchase Price: $29000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:16:02 AM Pacific Daylight Time
+Stock Number: 113
+Year: 2018
+Color: Red & Black
+Make: Decpticon
+Model: 722
+Mileage: 43000
+Sale Price: $52066.812798
+Purchase Price: $34000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:16:53 AM Pacific Daylight Time
+Stock Number: 114
+Year: 2015
+Color: Green
+Make: GM
+Model: Custom 62' Pickup Truck
+Mileage: 21000
+Sale Price: $39050.1095985
+Purchase Price: $32000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:18:10 AM Pacific Daylight Time
+Stock Number: 116
+Year: 1995
+Color: Red
+Make: Ferrari
+Model: F50
+Mileage: 32000
+Sale Price: $600770.9169000001
+Purchase Price: $500000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:18:47 AM Pacific Daylight Time
+Stock Number: 117
+Year: 2017
+Color: Black
+Make: Batmobile
+Model: DC Comics S71
+Mileage: 1000
+Sale Price: $56071.95224400001
+Purchase Price: $67000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:19:33 AM Pacific Daylight Time
+Stock Number: 118
+Year: 1993
+Color: Blue
+Make: Majorette
+Model: Limousine
+Mileage: 100000
+Sale Price: $70089.94030500001
+Purchase Price: $45000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:20:30 AM Pacific Daylight Time
+Stock Number: 119
+Year: 2010
+Color: Red
+Make: Disney
+Model: Pixar MACK
+Mileage: 10000
+Sale Price: $32041.115568
+Purchase Price: $29000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:21:03 AM Pacific Daylight Time
+Stock Number: 121
+Year: 2005
+Color: Yellow
+Make: Chevy
+Model: Corvette C^-R
+Mileage: 32000
+Sale Price: $60077.09169
+Purchase Price: $56000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:21:41 AM Pacific Daylight Time
+Stock Number: 122
+Year: 2017
+Color: Gold
+Make: Hotwheel
+Model: Dune-A-Soar
+Mileage: 21000
+Sale Price: $32041.115568
+Purchase Price: $29000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:22:26 AM Pacific Daylight Time
+Stock Number: 123
+Year: 2017
+Color: Red & Black
+Make: Canada
+Model: Northern Nighmare MosterJam Monster Truck
+Mileage: 21000
+Sale Price: $100128.48615000001
+Purchase Price: $90000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:30:25 AM Pacific Daylight Time
+Stock Number: 124
+Year: 2015
+Color: Yellow & Black
+Make: Autobot
+Model: Bumble Bee
+Mileage: 12000
+Sale Price: $32041.115568
+Purchase Price: $21000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:31:11 AM Pacific Daylight Time
+Stock Number: 125
+Year: 1992
+Color: Steel Blue
+Make: Nasa
+Model: HWSA
+Mileage: 32000
+Sale Price: $47060.3884905
+Purchase Price: $45000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:31:41 AM Pacific Daylight Time
+Stock Number: 126
+Year: 1980
+Color: Red
+Make: BuddyL
+Model: Tow Truck
+Mileage: 12000
+Sale Price: $32041.115568
+Purchase Price: $31000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:32:28 AM Pacific Daylight Time
+Stock Number: 127
+Year: 1974
+Color: White
+Make: England Lensney
+Model: 56 HI-Tailer
+Mileage: 23000
+Sale Price: $46059.103629
+Purchase Price: $42000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:33:10 AM Pacific Daylight Time
+Stock Number: 128
+Year: 2016
+Color: Gray
+Make: Hotwheel
+Model: Atmospheric TIE
+Mileage: 32000
+Sale Price: $23029.5518145
+Purchase Price: $21000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:33:47 AM Pacific Daylight Time
+Stock Number: 129
+Year: 1980
+Color: Steel
+Make: Omni
+Model: O24
+Mileage: 21000
+Sale Price: $19024.412368499998
+Purchase Price: $11000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:34:20 AM Pacific Daylight Time
+Stock Number: 130
+Year: 1996
+Color: Chrome
+Make: Hotwheels
+Model: Bank Truck Reserve
+Mileage: 23000
+Sale Price: $45057.8187675
+Purchase Price: $42000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:34:55 AM Pacific Daylight Time
+Stock Number: 131
+Year: 2016
+Color: Tan
+Make: Nissan
+Model: FairLady 2000
+Mileage: 14000
+Sale Price: $54069.382521
+Purchase Price: $55000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:35:34 AM Pacific Daylight Time
+Stock Number: 132
+Year: 1972
+Color: White & Blue
+Make: Matchbox
+Model: Cosmic Blues
+Mileage: 32000
+Sale Price: $56071.95224400001
+Purchase Price: $54000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:36:17 AM Pacific Daylight Time
+Stock Number: 133
+Year: 2019
+Color: White & Blue
+Make: Hotwheel
+Model: BASSLINE Police Car
+Mileage: 12000
+Sale Price: $32041.115568
+Purchase Price: $31000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:40:58 AM Pacific Daylight Time
+Stock Number: 134
+Year: 1980
+Color: Yellow With Green Tree
+Make: Jeep
+Model: Offroad CJ7
+Mileage: 43000
+Sale Price: $15019.2729225
+Purchase Price: $12000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:43:15 AM Pacific Daylight Time
+Stock Number: 135
+Year: 2018
+Color: Red
+Make: Maisto
+Model: Firetruck Boom Truck
+Mileage: 11000
+Sale Price: $21026.982091500002
+Purchase Price: $19000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:44:09 AM Pacific Daylight Time
+Stock Number: 43
+Year: 1970
+Color: Blue
+Make: Plymouth Disney
+Model: Superbird Pixar (The King)
+Mileage: 1100000
+Sale Price: $67086.0857205
+Purchase Price: $54000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:47:29 AM Pacific Daylight Time
+Stock Number: 1001
+Year: 2017
+Color: Green & Blue
+Make: Ford
+Model: Rally Cat
+Mileage: 1230
+Sale Price: $20025.697229999998
+Purchase Price: $21000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:17:34 AM Pacific Daylight Time
+Stock Number: 115
+Year: 1980
+Color: White
+Make: ZEE
+Model: USA NASA Space Shuttle
+Mileage: 120000
+Sale Price: $89114.3526735
+Purchase Price: $90000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:44:48 AM Pacific Daylight Time
+Stock Number: 105
+Year: 1970
+Color: Yellow
+Make: Ferrari
+Model: 365GT
+Mileage: 27000
+Sale Price: $88113.06781200001
+Purchase Price: $70000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 7:08:13 AM Pacific Daylight Time
+Stock Number: 101
+Year: 1965
+Color: Purple
+Make: Ford
+Model: Mustang Fastback
+Mileage: 12000
+Sale Price: $50064.243075000006
+Purchase Price: $47000.0
+
+*******************
+Dealer Acquisition Date: Thursday, September 15, 2022 at 8:37:27 PM Pacific Daylight Time
+Stock Number: 21
+Year: 2005
+Color: Yellow
+Make: Buell
+Model: X1-Lighting
+Mileage: 15000
+Sale Price: $9010.278892
+Purchase Price: $9000.0
+
+*******************
+Dealer Acquisition Date: Friday, September 16, 2022 at 6:58:12 AM Pacific Daylight Time
+Stock Number: 11
+Year: 2020
+Color: Tan
+Make: Honda
+Model: Accord
+Mileage: 12312
+Sale Price: $18023.127507
+Purchase Price: $21000.0
+
+END OF FILE: 
+Thursday, May 11, 2023 at 10:02:21 AM Pacific Daylight Time
